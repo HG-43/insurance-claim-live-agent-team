@@ -6,8 +6,6 @@ The agent records details in a field notebook, checks mock policy records, and a
 
 > **Developer:** Hiya Gupta
 
-![Notebook and evidence example from the original voice and camera interface](assets/insurance-claim-live-agent-team-notebook.png)
-
 ## Features
 
 * **Live conversation:** speak or type, with live transcripts.
